@@ -5,6 +5,7 @@ ruby "3.2.1"
 
 gem "bootsnap", require: false
 # gem "bcrypt", "~> 3.1.7"
+gem 'devise_token_auth', '~> 1.2.2'
 # gem "image_processing", "~> 1.2"
 # gem "jbuilder"
 # gem "kredis"
